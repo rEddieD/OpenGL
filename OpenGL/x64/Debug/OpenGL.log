@@ -1,0 +1,8 @@
+﻿  Mesh.cpp
+D:\Projects\OpenGL\OpenGL\Mesh.cpp(48,68): warning C4474: 'fscanf_s' : too many arguments passed for format string
+D:\Projects\OpenGL\OpenGL\Mesh.cpp(48,68): message : placeholders and their parameters expect 3 variadic arguments, but 4 were provided
+D:\Projects\OpenGL\OpenGL\Mesh.cpp(54,110): warning C4474: 'fscanf_s' : too many arguments passed for format string
+D:\Projects\OpenGL\OpenGL\Mesh.cpp(54,110): message : placeholders and their parameters expect 3 variadic arguments, but 4 were provided
+D:\Projects\OpenGL\OpenGL\Mesh.cpp(120,24): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  OpenGL.vcxproj -> D:\Projects\OpenGL\x64\Debug\OpenGL.exe
